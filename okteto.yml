@@ -1,0 +1,4 @@
+services:
+  echobot:
+    build: echobot
+    scale: 2
